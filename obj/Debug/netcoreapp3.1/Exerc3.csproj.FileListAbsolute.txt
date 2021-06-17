@@ -1,0 +1,11 @@
+C:\repo\Exerc3\bin\Debug\netcoreapp3.1\Exerc3.exe
+C:\repo\Exerc3\bin\Debug\netcoreapp3.1\Exerc3.deps.json
+C:\repo\Exerc3\bin\Debug\netcoreapp3.1\Exerc3.runtimeconfig.json
+C:\repo\Exerc3\bin\Debug\netcoreapp3.1\Exerc3.runtimeconfig.dev.json
+C:\repo\Exerc3\bin\Debug\netcoreapp3.1\Exerc3.dll
+C:\repo\Exerc3\bin\Debug\netcoreapp3.1\Exerc3.pdb
+C:\repo\Exerc3\obj\Debug\netcoreapp3.1\Exerc3.csprojAssemblyReference.cache
+C:\repo\Exerc3\obj\Debug\netcoreapp3.1\Exerc3.AssemblyInfoInputs.cache
+C:\repo\Exerc3\obj\Debug\netcoreapp3.1\Exerc3.AssemblyInfo.cs
+C:\repo\Exerc3\obj\Debug\netcoreapp3.1\Exerc3.dll
+C:\repo\Exerc3\obj\Debug\netcoreapp3.1\Exerc3.pdb
